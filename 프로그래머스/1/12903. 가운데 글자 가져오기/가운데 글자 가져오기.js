@@ -8,7 +8,7 @@ const solution = function (string) {
       Math.floor(arr.length / 2) + 1
     );
 
-    //console.log(Math.floor(arr.length / 2 + 1));
+
   } else {
     SlicedArr = arr.slice(
       Math.floor(arr.length / 2) - 1,
